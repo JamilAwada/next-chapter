@@ -11,7 +11,7 @@ const HeroSection = () => {
           </span>
         </h1>
         <p className="text-lg lg:text-xl max-w-3xl lg:max-w-lg">
-          Not much to say really, you can create and share Todo lists. I'm way too lazy to continue this page and just want to work on other stuff. Click the button below to sign up, the other button doesn't do anything, as the site's pretty self-explanatory.
+          Not much to say really, you can create and share Todo lists. I&apos;m way too lazy to continue this page and just want to work on other stuff. Click the button below to sign up, the other button doesn&apos;t do anything, as the site&apos;s pretty self-explanatory.
         </p>
         <div className="flex space-x-4">
           <button className="bg-primarybtn text-white px-6 py-3 rounded-md lg:w-auto hover:-translate-y-1 hover:bg-primarybtn-hover transition duration-200">
